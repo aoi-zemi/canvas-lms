@@ -170,7 +170,7 @@
     <th class="nobr" scope="row"><label for="profile_pseudonym_id"><%= before_label(:password_for, "Password For") %></label></th>
     <td>
       <select name="pseudonym[password_id]" id="profile_pseudonym_id">
-        <% @password_pseudonyms.each do |p| %>
+        <% @password_pseudonyms.reverse_each do |p| %>
           <option value="<%= p.id %>"><%= p.unique_id %></option>
         <% end %>
       </select>

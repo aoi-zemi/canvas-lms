@@ -3738,7 +3738,7 @@ ja:
   authentication_context_60748f2f: 認証コンテキスト
   authentication_provider: 
     default_delegated_login_handle_name: ログイン
-    default_login_handle_name: メールアドレス
+    default_login_handle_name: ID
   authentication_provider/ldap: 
     test_bind_failed: "次のエラーでバインドできませんでした：%{error}"
     test_bind_timeout: バインディング中にタイムアウトしました
@@ -8813,7 +8813,7 @@ ja:
   email_22a7d52d: Eメール
   email_actions_a9bfe457: メールアクション
   email_address_6e0443a5: "電子メール アドレス"
-  email_address_a1b97a39: メールアドレス
+  email_address_a1b97a39: ID
   email_address_optional_72795076: "メールアドレス リスト（オプション）"
   email_addresses_893faeb2: "電子メール アドレス"
   email_already_in_use_330248e: メールは既に使用されています
