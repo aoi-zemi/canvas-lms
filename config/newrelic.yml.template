@@ -1,0 +1,18 @@
+common: &default_settings
+  agent_enabled: true
+  license_key: "secret"
+  app_name: "hoge.aoi-for-school.com"
+  log_level: info
+
+development:
+  <<: *default_settings
+
+test:
+  <<: *default_settings
+  monitor_mode: false
+
+staging:
+  <<: *default_settings
+
+production:
+  <<: *default_settings

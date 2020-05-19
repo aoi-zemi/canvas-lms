@@ -12,6 +12,7 @@
 # these gems to prevent regression, and the indentation serves to alert us to the relationship between the gem and canvas-lms
 source 'https://rubygems.org/'
 
+gem 'newrelic_rpm'
 
 Dir[File.join(File.dirname(__FILE__), 'gems/plugins/*/Gemfile.d/_before.rb')].each do |file|
   eval(File.read(file), nil, file)
