@@ -4754,7 +4754,7 @@ ja:
   canvas_alert_students_are_clicking_on_bad_link_to__d5e1e282: "Canvas アラート - 受講生は、%{bad_link}で%{asset_link}.で削除されたコンテンツをクリックしています。"
   canvas_alert_submission_user_name_assignment_title_4503ccf: "Canvas アラート - 提出：%{user_name}, %{assignment_title}"
   canvas_attribute_eaa7e31a: "Canvas 属性"
-  canvas_by_instructure_1490381: "Canvas by Instructure"
+  canvas_by_instructure_1490381: ""
   canvas_cartridge_description: "これは、Canvas のエクスポートを JSON 形式の中間ファイルに変換し、インポートできるようにします。"
   canvas_cartridge_display: "Canvas コモン カートリッジ"
   canvas_cartridge_file_description: "Canvas コース エクスポート パッケージ"
@@ -4917,7 +4917,7 @@ ja:
   click_cancel_if_you_don_t_want_the_code_displayed_ff7b1846: "コードが表示されない場合は、[キャンセル]をクリックします。"
   click_for_more_details_on_this_outcome_8c018d2f: クリックして、結果の更なる詳細をみる
   click_here_for_an_account_9536cb36: アカウントへは、こちらをクリックしてください
-  click_here_it_s_free_eeccb9cb: こちらをクリックしてください。無料です！
+  click_here_it_s_free_eeccb9cb: ""
   click_here_on_the_calendar_link_c9965631: "*カレンダー* リンクのここをクリック"
   click_here_to_add_a_discussion_f17c4260: ここをクリックしてディスカッションを追加する
   click_here_to_download_size_of_file_74443988: "ここをクリックしてダウンロード%{size_of_file}"
@@ -12768,7 +12768,7 @@ ja:
         log_in: ログイン
         login_handle: "%{login_handle_name} を入力してください。パスワード変更用のリンクをお送りします。"
         page_title: "Canvas にログイン"
-        register_for_canvas: "*Canvas アカウントが必要ですか?* **こちらをクリックしてください (登録無料)。**"
+        register_for_canvas: ""
       new_login_content: 
         ? "User Research"
         : ユーザ研究
@@ -12781,7 +12781,7 @@ ja:
           remember_me: サインインしたままにする
         log_in: ログイン
         login_handle: "%{login_handle_name} を入力してください。パスワード変更用のリンクをお送りします。"
-        open_source_learning_management_system: "オープン ソース LMS"
+        open_source_learning_management_system: ""
     logout_confirm: 
       cancel: キャンセル
       details: 
@@ -15421,7 +15421,7 @@ ja:
   navigation_allows_user_to_view_the_people_link_in__dd533d29: ユーザーがコースナビゲーションの人物のリンクを表示できるようにします。
   navigation_icon_45db938e: ナビゲーションのアイコン
   near_mastery_f25174a4: 熟達に近い
-  need_a_canvas_account_221d18ed: "Canvas アカウントが必要ですか？"
+  need_a_canvas_account_221d18ed: ""
   need_help_setting_up_your_course_2b763141: コースの設定でヘルプが必要ですか？
   needs_grading_9143d47c: 採点が必要です
   needs_review_flagged_as_possible_spam_233657fb: 確認が必要：スパムの可能性があるとしてフラグ付け
